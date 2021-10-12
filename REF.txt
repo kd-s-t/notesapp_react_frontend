@@ -1,1 +1,8 @@
+Template:
 https://github.com/mirego/react-boilerplate
+
+Install Make:
+https://www.makeuseof.com/how-to-fix-make-command-not-found-error-ubuntu/
+
+Install Docker:
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
